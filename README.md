@@ -4,11 +4,11 @@ This site represent design that I love. Design is fresh,clean and minimalistic.
 
 ---
 
-<img src="inspiration-app-01.png" alt="main-page" width="600" aling="center"/>
-<img src="inspiration-app-02.png" alt="main-page" width="600" aling="center"/>
-<img src="inspiration-app-03.png" alt="main-page" width="600" aling="center"/>
-<img src="inspiration-app-04.png" alt="main-page" width="600" aling="center"/>
-<img src="inspiration-app-05.png" alt="main-page" width="600" aling="center"/>
+<img src="inspiration-01.png" alt="main-page" width="600" aling="center"/>
+<img src="inspiration-02.png" alt="main-page" width="600" aling="center"/>
+<img src="inspiration-03.png" alt="main-page" width="600" aling="center"/>
+<img src="inspiration-04.png" alt="main-page" width="600" aling="center"/>
+<img src="inspiration-05.png" alt="main-page" width="600" aling="center"/>
 
 ## Getting started
 
