@@ -248,7 +248,7 @@ p {
 }
 
 table{
-	margin-top: 40px;
+	margin-top: 50px;
 }
 
 .livingroom{
@@ -316,8 +316,10 @@ table{
 
 .btn{
 	position: relative;
+	top: -42px;
 	left: 255px;
 	bottom: 38px;
+	padding: 0px 16.5px;
 	color: #F17808;
 }
 
